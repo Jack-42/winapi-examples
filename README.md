@@ -1,3 +1,4 @@
 # winapi-examples
 Some examples using the WinAPI and the C programming language.
-They are all using Unicode only.
+
+All examples are using Unicode only.
