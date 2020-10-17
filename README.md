@@ -1,6 +1,4 @@
 # winapi-examples
 This repository contains examples using the WinAPI and the C programming language.
 
-All examples use Unicode only.
-
-The projects are created using Visual Studio 2019 and are contained in one solution.
+The projects are created using Visual Studio 2019 and are all included in one solution (winapi-examples.sln).
